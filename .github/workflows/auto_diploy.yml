@@ -29,6 +29,6 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: Installin surge
-     run: npm install --global surge
+      run: npm install --global surge
     - name: Diploying using surge
       run: surge ./ http://wary-cork.surge.sh/ --token ${{ secrets.SECRETS_TOKEN }}

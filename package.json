@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp-reat-app",
+  "version": "1.0.0",
+  "description": "By Alvi",
+  "main": "Hello World",
+  "scripts": {
+    "test": "npm create"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanaAlvi/Bootcamp.git"
+  },
+  "keywords": [
+    "Learning",
+    "learn"
+  ],
+  "author": "Sana Alvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanaAlvi/Bootcamp/issues"
+  },
+  "homepage": "https://github.com/SanaAlvi/Bootcamp#readme"
+}
